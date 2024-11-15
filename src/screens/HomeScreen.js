@@ -5,7 +5,7 @@ const HomeScreen = ({ navigation }) => {
     return (
         <View style={styles.container}>
             <Text>Welcome to SayIt!</Text>
-            <Button title="Detect Languxxxage" onPress={() => {}} />
+            <Button title="Detect Language" onPress={() => {}} />
         </View>
     );
 };
